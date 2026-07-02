@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
-    <!-- More settings available: https://github.com/mtransitapps/commons-android/blob/master/src/main/res/values/gtfs_real_time_values.xml -->
-    <string name="gtfs_real_time_agency_service_alerts_url">INSERT_URL_OR_REMOVE</string>
-    <string name="gtfs_real_time_agency_vehicle_positions_url">INSERT_URL_OR_REMOVE</string>
-    <string name="gtfs_real_time_agency_trip_updates_url">INSERT_URL_OR_REMOVE</string>
+    <string name="gtfs_real_time_agency_vehicle_positions_url">https://lio.2cloud.app/api/gtfsrt/2.0/vehiclepositions/LIO65-6765-2617-7480/bin</string>
+    <string name="gtfs_real_time_agency_trip_updates_url">https://lio.2cloud.app/api/gtfsrt/2.0/tripupdates/LIO65-6765-2617-7480/bin</string>
 </resources>
