@@ -3,9 +3,11 @@
 
 <img width="25%" height="25%" src="app-android/src/main/play/listings/en-US/graphics/icon/1.png"/>
 
-## Coming soon...
+## Join the Private Beta
 
-Currently being set up and tested before initial release.
+[Join the Private Beta](https://play.google.com/apps/testing/org.mtransit.android.fr_pyrenees_orientales_lio_bus)
+
+Learn more about the [private beta program](https://github.com/mtransitapps/mtransit-for-android/wiki/Beta).
 
 ## Screenshots
 
