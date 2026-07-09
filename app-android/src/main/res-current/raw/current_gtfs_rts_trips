@@ -1,66 +1,66 @@
-50000,0,'Perpignan: Gare Routière Bd St Assiscle',500
-50001,0,'Quillan: Gare SNCF',500
-50301,0,'Fitou: Rue Amandiers',503
-50300,0,'Perpignan: Gare Routière Bd St Assiscle',503
-50500,0,'Estagel: SANKEO Pl',505
-50501,0,'Lansac: Cave',505
-50600,0,'Cubières-Sur-Cinoble: Parking',506
-50601,0,'St-Paul-De-Fenouillet: Gare',506
-51001,0,'Millas: Intermarché',510
-51000,0,'Perpignan: Gare Routière Bd St Assiscle',510
-51101,0,'Thuir: Poste',511
-51100,0,'Vinça: Plage',511
-51201,0,'Corbère: Mairie',512
-51200,0,'Ille-Sur-Têt: Foiral',512
-52000,0,'Perpignan: Gare Routière Bd St Assiscle',520
-52001,0,'Prades: Es Multimodal Dr Salies',520
-52101,0,'Casteil: Parking',521
-52100,0,'Perpignan: Gare Routière Bd St Assiscle',521
-52201,0,'Casteil: Parking',522
-52200,0,'Prades: Es Multimodal Dr Salies',522
-52301,0,'Mosset: X Rte Carole',523
-52300,0,'Prades: Es Multimodal Dr Salies',523
-52401,0,'Fontpédrouse: RD 66',524
-52400,0,'Prades: Chants Oiseaux',524
-52500,0,'Prades: Es Multimodal Dr Salies',525
-52501,0,'Py: Paraguera',525
-53001,0,'Arles-Sur-Tech: Gare Routiere',530
-53000,0,'Perpignan: Gare Routière Bd St Assiscle',530
-53100,0,'Arles-Sur-Tech: Gare Routiere',531
-53101,0,'Prats-De-Mollo-La-Preste: Foiral',531
-53200,0,'Arles-Sur-Tech: Gare Routiere',532
-53201,0,'Coustouges: Parking',532
-53600,0,'Prats-De-Mollo-La-Preste: Foiral',536
-53601,0,'Prats-De-Mollo-La-Preste: Thermes',536
-54001,0,'Cerbère: Ctr-Ville',540
-54000,0,'Perpignan: Gare Routière Bd St Assiscle',540
-54100,0,'Port-Vendres: Paulilles RD 914',541
-54101,0,'St-Cyprien: Banque Populaire',541
-54200,0,'Perpignan: Gare Routière Bd St Assiscle',542
-54201,0,'St-Cyprien: Pl Evadés',542
-54300,0,'Argelès-Sur-Mer: Mairie',543
-54301,0,'Cabestany: Médipole',543
-55000,0,'Argelès-Sur-Mer: RP Arrivee/St-André: Collège',550
-55001,0,'Céret: RP Toreador',550
-55301,0,'Montesquieu-Des-Albères: Mas Santraille/St-Génis-Des-Fontaines: Lot Mtserrat',553
-55300,0,'Perpignan: Gare Routière Bd St Assiscle',553
-56000,0,'Perpignan: Gare Routière Bd St Assiscle',560
-56001,0,'Porté-Puymorens: Castel Izard',560
-56101,0,'Formiguères: Pl',561
-56100,0,'Mont-Louis: P:De France',561
-56400,0,'Cabanasse: Gare',564
-56401,0,'Llagonne: Pla Barrès',564
-56600,0,'Mont-Louis: P:De France',566
-56601,0,'Porté-Puymorens: Castel Izard',566
-56900,0,'Err: Pl/Latour-De-Carol: Foyer',569
-56901,0,'Formiguères: Pl',569
-57001,0,'Fourques: Aire Loisirs',570
-57000,0,'Perpignan: Gare Routière Bd St Assiscle',570
-57100,0,'Perpignan: Gare Routière Bd St Assiscle',571
-57101,0,'Tresserre: Lotissement',571
-57201,0,'Banyuls-Dels-Aspres: RP Rourede',572
-57200,0,'Perpignan: Gare Routière Bd St Assiscle',572
-57301,0,'Brouilla: Fontenilles',573
-57300,0,'Perpignan: Gare Routière Bd St Assiscle',573
-57401,0,'Latour-Bas-Elne: Chem Moulin',574
-57400,0,'Perpignan: Gare Routière Bd St Assiscle',574
+50000,0,'Perpignan',500
+50001,0,'Quillan',500
+50301,0,'Fitou',503
+50300,0,'Perpignan',503
+50501,0,'Lansac',505
+50500,0,'Perpignan',505
+50600,0,'Cubieres Sur Cinobles',506
+50601,0,'St Paul Fenouillet',506
+51001,0,'Millas',510
+51000,0,'Perpignan',510
+51101,0,'Thuir',511
+51100,0,'Vinça',511
+51201,0,'Corbere',512
+51200,0,'Perpignan',512
+52000,0,'Perpignan',520
+52001,0,'Prades',520
+52101,0,'Casteil',521
+52100,0,'Perpignan',521
+52201,0,'Casteil',522
+52200,0,'Prades',522
+52301,0,'Mosset',523
+52300,0,'Prades',523
+52401,0,'Fontpedrouse',524
+52400,0,'Prades',524
+52500,0,'Prades',525
+52501,0,'Py',525
+53001,0,'Arles Sur Tech',530
+53000,0,'Perpignan',530
+53100,0,'Arles Sur Tech',531
+53101,0,'Prats Mollo',531
+53200,0,'Arles Sur Tech',532
+53201,0,'Coustouges',532
+53601,0,'La Preste',536
+53600,0,'Prats Mollo',536
+54001,0,'Cerbere',540
+54000,0,'Perpignan',540
+54100,0,'Port-Vendres',541
+54101,0,'Saint Cyprien',541
+54200,0,'Perpignan',542
+54201,0,'Saint Cyprien',542
+54300,0,'Argeles',543
+54301,0,'Cabestany',543
+55000,0,'Argeles',550
+55001,0,'Ceret',550
+55300,0,'Perpignan',553
+55301,0,'Villelongue Dels Monts',553
+56000,0,'Perpignan',560
+56001,0,'Porte Puymorens',560
+56101,0,'Formigueres',561
+56100,0,'Mont Louis',561
+56400,0,'Cabanasse',564
+56401,0,'Pla De Barres',564
+56601,0,'Bourg Madame',566
+56600,0,'Mont Louis',566
+56900,0,'Err',569
+56901,0,'Formigueres',569
+57001,0,'Fourques',570
+57000,0,'Perpignan',570
+57100,0,'Perpignan',571
+57101,0,'Tresserre',571
+57201,0,'Banyuls Aspres',572
+57200,0,'Perpignan',572
+57301,0,'Brouilla',573
+57300,0,'Perpignan',573
+57401,0,'Latour Bas Elne',574
+57400,0,'Perpignan',574
