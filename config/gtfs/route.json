@@ -30,13 +30,6 @@
             "comment": "Keep 'city: location' (city more important when different than direction)"
         }
     ],
-    "trip_headsign_cleaners_old": [
-        {
-            "regex": "^((?:(?! - )[\\s\\S])*)(\\s+-\\s+)(.+)$",
-            "replacement": "$1: $3",
-            "comment": "Keep 'city: location'"
-        }
-    ],
     "stop_name_cleaners": [
         {
             "regex": "^((?:(?! - )[\\s\\S])*)(\\s+-\\s+)(.+)$",
