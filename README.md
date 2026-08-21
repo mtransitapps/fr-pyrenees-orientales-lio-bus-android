@@ -24,3 +24,8 @@ Learn more about the [private beta program](https://github.com/mtransitapps/mtra
 ## License
 
 * [Apache Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
+
+## Privacy Policy
+
+* [Privacy Policy](https://mtransitapps.github.io/privacy)
+
