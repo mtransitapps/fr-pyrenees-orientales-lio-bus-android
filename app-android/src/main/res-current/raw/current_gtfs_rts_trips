@@ -4,20 +4,12 @@
 50300,0,'Perpignan',503
 50501,0,'Lansac',505
 50500,0,'Perpignan',505
-50600,0,'Cubieres Sur Cinobles',506
-50601,0,'St Paul Fenouillet',506
-51001,0,'Millas',510
-51000,0,'Perpignan',510
 51101,0,'Thuir',511
 51100,0,'Vinça',511
 51201,0,'Corbere',512
 51200,0,'Perpignan',512
 52000,0,'Perpignan',520
 52001,0,'Prades',520
-52101,0,'Casteil',521
-52100,0,'Perpignan',521
-52201,0,'Casteil',522
-52200,0,'Prades',522
 52301,0,'Mosset',523
 52300,0,'Prades',523
 52401,0,'Fontpedrouse',524
@@ -34,8 +26,6 @@
 53600,0,'Prats Mollo',536
 54001,0,'Cerbere',540
 54000,0,'Perpignan',540
-54100,0,'Port-Vendres',541
-54101,0,'Saint Cyprien',541
 54200,0,'Perpignan',542
 54201,0,'Saint Cyprien',542
 54300,0,'Argeles',543
